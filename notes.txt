@@ -1,0 +1,2 @@
+Progress Tracker:
+1. fast run through the basics of C++
