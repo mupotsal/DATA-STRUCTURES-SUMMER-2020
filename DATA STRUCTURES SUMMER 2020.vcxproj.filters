@@ -24,12 +24,18 @@
     <ClCompile Include="revisions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="vec_arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_math.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="revisions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vec_arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

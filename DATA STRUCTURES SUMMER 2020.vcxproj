@@ -126,10 +126,12 @@
     <ClCompile Include="my_math.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="revisions.cpp" />
+    <ClCompile Include="vec_arrays.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_math.h" />
     <ClInclude Include="revisions.h" />
+    <ClInclude Include="vec_arrays.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
